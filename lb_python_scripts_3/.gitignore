@@ -1,0 +1,9 @@
+# python .pyc files:
+*.pyc
+
+#python autosave files:
+*.bak
+
+# emacs temporary/autosave files:
+[#]*[#]
+*~

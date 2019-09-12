@@ -1,0 +1,16 @@
+C = 2.99792458e10
+#G = 6.67259e-8
+G = 6.6738e-8 ## used in Arepo
+MSUN = 1.989e33
+PC = 3.085678e18
+KPC = 3.085678e21
+#YR = 3.1556936e7
+YR = 3.15576e7 ## used in Arepo
+#MP = 1.6726231e-24
+MP = 1.67262178e-24 ## used in Arepo
+#KB = 1.380658e-16
+KB = 1.38065e-16 ## used in Arepo
+SB = 5.67051e-5
+KES = 0.4
+THOMSON = 6.65245873e-25
+LSUN = 3.826e33
